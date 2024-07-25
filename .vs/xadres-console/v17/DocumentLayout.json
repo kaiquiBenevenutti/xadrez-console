@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|solutionrelative:xadres-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|c:\\curso\\xadres-console\\xadres-console\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|solutionrelative:xadres-console\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|c:\\curso\\xadres-console\\xadres-console\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|solutionrelative:xadres-console\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,24 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Tela.cs",
+              "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\Tela.cs",
+              "RelativeDocumentMoniker": "xadres-console\\Tela.cs",
+              "ToolTip": "C:\\curso\\xadres-console\\xadres-console\\Tela.cs",
+              "RelativeToolTip": "xadres-console\\Tela.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:12:17.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Tabuleiro.cs",
               "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\tabuleiro\\Tabuleiro.cs",
               "RelativeDocumentMoniker": "xadres-console\\tabuleiro\\Tabuleiro.cs",
               "ToolTip": "C:\\curso\\xadres-console\\xadres-console\\tabuleiro\\Tabuleiro.cs",
               "RelativeToolTip": "xadres-console\\tabuleiro\\Tabuleiro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T13:01:34.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Peca.cs",
               "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\tabuleiro\\Peca.cs",
               "RelativeDocumentMoniker": "xadres-console\\tabuleiro\\Peca.cs",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Cor.cs",
               "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\tabuleiro\\Cor.cs",
               "RelativeDocumentMoniker": "xadres-console\\tabuleiro\\Cor.cs",
@@ -68,12 +85,11 @@
               "RelativeToolTip": "xadres-console\\tabuleiro\\Cor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T12:57:42.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T12:57:42.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Posicao.cs",
               "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\tabuleiro\\Posicao.cs",
               "RelativeDocumentMoniker": "xadres-console\\tabuleiro\\Posicao.cs",
@@ -91,7 +107,7 @@
               "RelativeDocumentMoniker": "xadres-console\\Program.cs",
               "ToolTip": "C:\\curso\\xadres-console\\xadres-console\\Program.cs",
               "RelativeToolTip": "xadres-console\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T12:40:16.628Z",
               "EditorCaption": ""

@@ -1,0 +1,14 @@
+C:\curso\xadres-console\xadres-console\bin\Debug\net8.0\xadrez-console.exe
+C:\curso\xadres-console\xadres-console\bin\Debug\net8.0\xadrez-console.deps.json
+C:\curso\xadres-console\xadres-console\bin\Debug\net8.0\xadrez-console.runtimeconfig.json
+C:\curso\xadres-console\xadres-console\bin\Debug\net8.0\xadrez-console.dll
+C:\curso\xadres-console\xadres-console\bin\Debug\net8.0\xadrez-console.pdb
+C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\xadrez-console.AssemblyInfoInputs.cache
+C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\xadrez-console.AssemblyInfo.cs
+C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\xadrez-console.csproj.CoreCompileInputs.cache
+C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\xadrez-console.dll
+C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\refint\xadrez-console.dll
+C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\xadrez-console.pdb
+C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\xadrez-console.genruntimeconfig.cache
+C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\ref\xadrez-console.dll

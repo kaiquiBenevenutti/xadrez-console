@@ -12,3 +12,4 @@ C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\refint\xadrez-console.dl
 C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\xadrez-console.pdb
 C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\xadrez-console.genruntimeconfig.cache
 C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\ref\xadrez-console.dll
+C:\curso\xadres-console\xadres-console\obj\Debug\net8.0\xadrez-console.sourcelink.json

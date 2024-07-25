@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|solutionrelative:xadres-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|c:\\curso\\xadres-console\\xadres-console\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|solutionrelative:xadres-console\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|c:\\curso\\xadres-console\\xadres-console\\tabuleiro\\tabuleiroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|solutionrelative:xadres-console\\tabuleiro\\tabuleiroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|c:\\curso\\xadres-console\\xadres-console\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|solutionrelative:xadres-console\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|c:\\curso\\xadres-console\\xadres-console\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|solutionrelative:xadres-console\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|solutionrelative:xadres-console\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|c:\\curso\\xadres-console\\xadres-console\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|solutionrelative:xadres-console\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|c:\\curso\\xadres-console\\xadres-console\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|solutionrelative:xadres-console\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|c:\\curso\\xadres-console\\xadres-console\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|solutionrelative:xadres-console\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACCA539F-F39D-45A3-9DD5-481DD1E9BD00}|xadres-console\\xadrez-console.csproj|c:\\curso\\xadres-console\\xadres-console\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Torre.cs",
               "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\xadrez\\Torre.cs",
               "RelativeDocumentMoniker": "xadres-console\\xadrez\\Torre.cs",
@@ -54,12 +58,11 @@
               "RelativeToolTip": "xadres-console\\xadrez\\Torre.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T13:35:39.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T13:35:39.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Rei.cs",
               "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\xadrez\\Rei.cs",
               "RelativeDocumentMoniker": "xadres-console\\xadrez\\Rei.cs",
@@ -67,12 +70,11 @@
               "RelativeToolTip": "xadres-console\\xadrez\\Rei.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T13:32:20.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T13:32:20.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Tela.cs",
               "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\Tela.cs",
               "RelativeDocumentMoniker": "xadres-console\\Tela.cs",
@@ -80,25 +82,24 @@
               "RelativeToolTip": "xadres-console\\Tela.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T13:12:17.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T13:12:17.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Tabuleiro.cs",
               "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\tabuleiro\\Tabuleiro.cs",
               "RelativeDocumentMoniker": "xadres-console\\tabuleiro\\Tabuleiro.cs",
               "ToolTip": "C:\\curso\\xadres-console\\xadres-console\\tabuleiro\\Tabuleiro.cs",
               "RelativeToolTip": "xadres-console\\tabuleiro\\Tabuleiro.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAcAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wCkAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T13:01:34.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Peca.cs",
               "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\tabuleiro\\Peca.cs",
               "RelativeDocumentMoniker": "xadres-console\\tabuleiro\\Peca.cs",
@@ -111,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Cor.cs",
               "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\tabuleiro\\Cor.cs",
               "RelativeDocumentMoniker": "xadres-console\\tabuleiro\\Cor.cs",
@@ -123,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Posicao.cs",
               "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\tabuleiro\\Posicao.cs",
               "RelativeDocumentMoniker": "xadres-console\\tabuleiro\\Posicao.cs",
@@ -141,9 +142,22 @@
               "RelativeDocumentMoniker": "xadres-console\\Program.cs",
               "ToolTip": "C:\\curso\\xadres-console\\xadres-console\\Program.cs",
               "RelativeToolTip": "xadres-console\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T12:40:16.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TabuleiroException.cs",
+              "DocumentMoniker": "C:\\curso\\xadres-console\\xadres-console\\tabuleiro\\TabuleiroException.cs",
+              "RelativeDocumentMoniker": "xadres-console\\tabuleiro\\TabuleiroException.cs",
+              "ToolTip": "C:\\curso\\xadres-console\\xadres-console\\tabuleiro\\TabuleiroException.cs",
+              "RelativeToolTip": "xadres-console\\tabuleiro\\TabuleiroException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:52:30.694Z",
               "EditorCaption": ""
             }
           ]
